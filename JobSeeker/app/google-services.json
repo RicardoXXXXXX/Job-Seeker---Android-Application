@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230797723456",
+    "project_id": "signup-login-bf5e6",
+    "storage_bucket": "signup-login-bf5e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230797723456:android:9fe8260cd7e42281c21ca5",
+        "android_client_info": {
+          "package_name": "com.example.jobseeker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxnqwGOm00lQut8szPvZh7ZI49SoXIxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

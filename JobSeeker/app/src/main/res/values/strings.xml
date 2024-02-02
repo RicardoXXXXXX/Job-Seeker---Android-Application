@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Job Seeker</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="apply_now">Apply Now</string>
+    <string name="subscribe">subscribe</string>
+    <string name="back">Back</string>
+</resources>
