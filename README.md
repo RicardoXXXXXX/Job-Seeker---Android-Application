@@ -9,4 +9,4 @@ Job Seeker is a job-finding application specifically targeting young people and 
 - The ability to ‘follow’ items. There must be a section that presents all the items followed by a user, grouped, and in order.
 - The ability to send notifications for interactions (e.g., follow request, product viewed, etc.). A notification must be sent only after a predetermined number of interactions are set [e.g., when ≥2 requests have been received or 2 follow requests have been received).
 - The ability to share an item with another user via private messages or other channels within the App. 
-- 
+  
